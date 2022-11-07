@@ -1,0 +1,7 @@
+/home/stan/real_demo/CMakeFiles/rs-pcl.dir
+/home/stan/real_demo/CMakeFiles/edit_cache.dir
+/home/stan/real_demo/CMakeFiles/rebuild_cache.dir
+/home/stan/real_demo/CMakeFiles/list_install_components.dir
+/home/stan/real_demo/CMakeFiles/install.dir
+/home/stan/real_demo/CMakeFiles/install/local.dir
+/home/stan/real_demo/CMakeFiles/install/strip.dir
